@@ -158,14 +158,17 @@ body{
         .container2{
             flex-direction: column;
         }
-        .link{
-            font-size: 2rem;
+        .texto{
+            width: 85%;
         }
+        
     }
-@media(max-width: 746px){
+ @media(max-width: 466px){
     .estilo_botao{
         flex-direction: column;
         gap: 0%;
     }
-}
+} 
+
+
     

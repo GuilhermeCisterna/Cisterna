@@ -171,6 +171,8 @@ body{
     }
     .pezinho{
         font-size: 0.5rem;
+        justify-content: center;
+        gap: 2%;
     }
 } 
 

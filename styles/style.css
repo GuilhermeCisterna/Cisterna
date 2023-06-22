@@ -163,6 +163,10 @@ body{
         .texto{
             width: auto;
         }
+        .imagem2{
+            width: 80%;
+        }
+        
         
     }
  @media(max-width: 466px){
